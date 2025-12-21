@@ -63,6 +63,8 @@ permalink: /
   </div>
 </div>
 
+<div class="wix-panel">
+
 ---
 
 ## About
@@ -144,3 +146,4 @@ LinkedIn: https://www.linkedin.com/in/larissapalethorpe/
 ORCID: 0000-0002-1664-4105
 ---
 
+</div>
