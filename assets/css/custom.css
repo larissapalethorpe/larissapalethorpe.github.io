@@ -48,30 +48,34 @@ body {
   background: center/cover no-repeat fixed var(--bg-image);
 }
 
-/* Translucent content panel (Wix-like sheet) */
+/* ✅ Keep the hero clean: no panel styling on the whole page wrapper */
 .page__content {
-  /* panel geometry */
-  max-width: none;
-  width: min(820px, 62vw);     /* panel width (tweak) */
-  margin: 0 0 0 20vw;          /* pushes it right so background shows on left */
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+
+  /* optional: remove padding so hero can be full-bleed */
+  padding: 0 !important;
+  max-width: none !important;
+  margin: 0 !important;
+}
+
+/* ✅ Wix-like translucent sheet ONLY for body content below the hero */
+.wix-panel {
+  width: min(820px, 62vw);
+  margin: 0 0 0 20vw;      /* offset so background shows on left */
   padding: 4rem 4rem 5rem;
 
-  /* panel look */
-  background: rgba(255, 255, 255, 0.78);  /* more translucent than your 0.92 */
+  background: rgba(255, 255, 255, 0.78);
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
 
-  /* Wix-style: no “card” edges */
-  border-radius: 0;
-  box-shadow: none;
-
-  /* make sure it sits above background */
   position: relative;
   z-index: 1;
 }
 
-/* Optional: add a soft edge so the panel blends into the background */
-.page__content::before {
+/* Optional soft blending edge */
+.wix-panel::before {
   content: "";
   position: absolute;
   inset: 0;
@@ -79,18 +83,17 @@ body {
   box-shadow: -40px 0 60px rgba(255,255,255,0.35) inset;
 }
 
-/* Mobile: panel becomes full width */
+/* Mobile: full width */
 @media (max-width: 900px) {
-  .page__content {
+  .wix-panel {
     width: 100%;
     margin: 0;
     padding: 2.5rem 1.5rem 3rem;
   }
-  .page__content::before {
+  .wix-panel::before {
     box-shadow: none;
   }
 }
-
 
 /* Ensure theme typography doesn’t override panel text */
 .page__content * {
