@@ -4,56 +4,74 @@ title: ""
 permalink: /
 ---
 
+<!-- HERO SECTION -->
+<div style="text-align:center; margin-bottom:2em;">
+
+<img src="/assets/images/larissa.jpg" alt="Dr Larissa Palethorpe"
+     style="width:220px; border-radius:4px; margin-bottom:1em;">
+
 # Dr Larissa Palethorpe
 
 Royal Society Career Development Fellow  
 School of Physics, University of Bristol
 
+</div>
+
 ---
 
 ## About
-I am an astrophysicist studying the formation and evolution of exoplanets, with a particular focus on small planets and population-level trends. My work uses observational data and statistical methods to understand how planetary systems assemble, evolve, and lose their atmospheres over time.
+I am an astrophysicist studying the formation and evolution of exoplanets, with a particular focus on small planets and population-level trends. My work combines observational data and statistical techniques to understand how planetary systems assemble, evolve, and lose their atmospheres over time.
 
-I am currently a Royal Society Career Development Fellow at the University of Bristol, where I lead independent research into small exoplanets in transitional regimes, combining data from missions including TESS, CHEOPS, HARPS-N, and JWST.
+I am currently a Royal Society Career Development Fellow at the University of Bristol, where I lead independent research into small exoplanets in transitional regimes using data from missions including TESS, CHEOPS, HARPS-N, and JWST.
 
 ---
 
 ## Research
-My research centres on understanding what small exoplanets are made of and how they evolve. Key themes include:
+My research focuses on understanding the nature and evolution of small exoplanets, particularly those that lie at the boundary between rocky and volatile-rich worlds. Key themes include:
 
 - Exoplanet demographics and population-level trends  
 - The exoplanet radius valley and atmospheric loss  
 - Planet composition, interiors, and evolution  
 - Observational studies using TESS, CHEOPS, HARPS-N, and JWST  
 
-I am particularly interested in how planets transition between rocky and volatile-rich regimes, and what this reveals about planet formation and the frequency of potentially habitable worlds.
-
 ---
 
 ## Publications
 I am a joint first author on the discovery and characterisation of **Gliese 12 b**, a temperate Earth-sized exoplanet, and have led several first-author studies on the composition and evolution of small planets.
 
+**Selected publications**
 - Palethorpe et al. (2024), *MNRAS* — Confronting compositional confusion through the characterisation of a sub-Neptune  
 - Dholakia & Palethorpe et al. (2024), *MNRAS* — Gliese 12 b: a temperate Earth-sized planet at 12 pc  
-- Palethorpe et al. (in prep.) — Constraining small planet compositions for the habitable worlds era  
 
 A full publication list is available via:
 - [Google Scholar](https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en)
-- [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/BgfdPWJSRu6kYHQiCJ_uWQ)
+- [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Palethorpe%2C%20L%22)
 
 ---
 
-## Teaching & Supervision
-I have extensive experience teaching and supervising across undergraduate and postgraduate astrophysics and planetary science courses, including scientific programming, data analysis, astrobiology, and introductory astrophysics.
+## Talks, Posters & Conferences
+I regularly present my research at international conferences and workshops.
 
-I have also supervised students in designing and delivering community-focused physics outreach projects, with a strong emphasis on science communication and public engagement.
+**Selected highlights**
+- Keynote: *Gliese 12 b* — UK Exoplanet Meeting 2024  
+- Contributed talks — UK Exoplanet Meeting, Scottish Exoplanet Meeting  
+- Posters — Exoplanets V, Extreme Solar Systems V, UK Exoplanet Meetings  
+
+[Conference posters & slides](PASTE-GOOGLE-DRIVE-OR-GITHUB-LINK)
 
 ---
 
 ## Outreach & Media
-I am actively involved in public engagement and science communication. My work has featured in international media following the discovery of Gliese 12 b, including coverage by NASA, CNN, New Scientist, Sky News, and BBC Sky at Night.
+My research and outreach work have featured in international media, including:
 
-I regularly give public talks, participate in panel discussions, and contribute to outreach initiatives aimed at widening participation in physics and astronomy.
+- [NASA press release on the discovery of Gliese 12 b]((https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/))
+- [CNN interview on Earth-sized exoplanets](https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn)
+- [New Scientist interview on Gliese 12 b](https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/)  
+- [Sky News interview on Gliese 12 b](https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999)
+- [BBC *Sky at Night* — *Exoplanets: Strange New Worlds*](https://www.bbc.co.uk/programmes/m002fzbc)
+- [Physics World — *Pursuing joy in an alien world*](https://physicsworld.com/a/pursuing-joy-in-an-alien-world/)
+
+I am passionate about science communication and widening participation in physics and astronomy, and regularly give public talks and participate in outreach events.
 
 ---
 
@@ -66,3 +84,4 @@ I regularly give public talks, participate in panel discussions, and contribute 
 Email: larissa.palethorpe@ed.ac.uk  
 LinkedIn: https://www.linkedin.com/in/larissapalethorpe/  
 ORCID: 0000-0002-1664-4105
+
