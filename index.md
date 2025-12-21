@@ -7,7 +7,7 @@ permalink: /
 <!-- HERO SECTION -->
 <div style="text-align:center; margin-bottom:2em;">
 
-<img src="/assets/images/larissa.jpg" alt="Dr Larissa Palethorpe"
+<img src="/assets/larissa.jpg" alt="Dr Larissa Palethorpe"
      style="width:220px; border-radius:4px; margin-bottom:1em;">
 
 # Dr Larissa Palethorpe
