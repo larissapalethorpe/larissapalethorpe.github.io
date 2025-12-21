@@ -245,3 +245,31 @@
 .wix-hero .wix-hero__nav a {
   color: #fff !important;
 }
+
+/* Full-page background like Wix (continues after hero) */
+body {
+  background: url("/assets/Gl12b_Illustration.jpg") center/cover no-repeat fixed;
+}
+
+/* Let the hero use the page background (avoid double background) */
+.wix-hero__bg {
+  background: transparent !important;
+}
+
+/* Wix-like translucent white section overlay */
+.wix-panel {
+  width: min(1100px, 92vw);
+  margin: 3rem auto;
+  padding: 3rem;
+  background: rgba(255, 255, 255, 0.82);
+  border-radius: 10px;
+  backdrop-filter: blur(2px);
+}
+
+/* Make text inside panels readable */
+.wix-panel h2,
+.wix-panel h3,
+.wix-panel p,
+.wix-panel li {
+  color: #111;
+}
