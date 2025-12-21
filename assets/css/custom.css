@@ -161,3 +161,19 @@
     left: 0;
   }
 }
+
+/* Icon styling (Wix-style) */
+.wix-side__icons i {
+  font-size: 1.35rem;
+}
+
+.wix-side__icons a {
+  color: rgba(255,255,255,0.9);
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.wix-side__icons a:hover {
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
