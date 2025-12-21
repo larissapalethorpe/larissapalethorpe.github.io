@@ -4,30 +4,28 @@ title: "Larissa Palethorpe | Royal Society Career Development Fellow"
 permalink: /
 ---
 
-
 <div class="wix-hero" id="top">
   <div class="wix-hero__bg"></div>
 
-  <div class="wix-hero__nav">
+  <nav class="wix-hero__nav" aria-label="Primary">
     <a href="#education">Education &amp; Experience</a>
     <a href="#presentations">Presentations &amp; Honors</a>
     <a href="#publications">Publications &amp; Abstracts</a>
     <a href="#outreach">Outreach &amp; Media</a>
     <a href="#contact">Contact Information</a>
+  </nav>
+
+  <div class="wix-hero__main">
+    <div class="wix-hero__textblock">
+      <h1 class="wix-hero__name">Dr Larissa Palethorpe</h1>
+      <p class="wix-hero__tagline">
+        <span class="wix-hero__tagline-strong">Royal Society Career Development Fellow</span><br>
+        <span class="wix-hero__tagline-strong">University of Bristol</span>
+      </p>
+    </div>
   </div>
 
-
-<div class="wix-hero__main">
-  <div class="wix-hero__textblock">
-    <h1 class="wix-hero__name">Dr Larissa Palethorpe</h1>
-    <p class="wix-hero__tagline">
-      <span style="font-size:1.12em;">Royal Society Career Development Fellow</span><br>
-      <span style="font-size:1.12em;">University of Bristol</span>
-    </p>
-  </div>
-</div>
-
-  <div class="wix-hero__side">
+  <aside class="wix-hero__side" aria-label="Profile summary">
     <div class="wix-side">
       <img class="wix-side__photo" src="/assets/larissa.jpg" alt="Dr Larissa Palethorpe">
 
@@ -35,32 +33,36 @@ permalink: /
         PhD in Astronomy<br>
         <span class="wix-side__muted">University of Edinburgh</span>
       </p>
-      
+
       <p class="wix-side__line">
         Royal Society CDF<br>
         <span class="wix-side__muted">University of Bristol</span>
       </p>
 
-      <p class="wix-side__line">Email:<br>larissa.palethorpe@ed.ac.uk</p>
+      <p class="wix-side__line">
+        Email:<br>
+        <a href="mailto:larissa.palethorpe@ed.ac.uk" style="color: inherit; text-decoration: none;">
+          larissa.palethorpe@ed.ac.uk
+        </a>
+      </p>
 
-  <div class="wix-side__icons">
-    <a href="https://orcid.org/0000-0002-1664-4105" aria-label="ORCID">
-      <i class="fab fa-orcid"></i>
-    </a>
-  
-    <a href="https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en" aria-label="Google Scholar">
-      <i class="fas fa-graduation-cap"></i>
-    </a>
-  
-    <a href="https://www.linkedin.com/in/larissapalethorpe/" aria-label="LinkedIn">
-      <i class="fab fa-linkedin-in"></i>
-    </a>
-  </div>
+      <div class="wix-side__icons">
+        <a href="https://orcid.org/0000-0002-1664-4105" aria-label="ORCID">
+          <i class="fab fa-orcid"></i>
+        </a>
 
+        <a href="https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en" aria-label="Google Scholar">
+          <i class="fas fa-graduation-cap"></i>
+        </a>
+
+        <a href="https://www.linkedin.com/in/larissapalethorpe/" aria-label="LinkedIn">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </div>
 
       <a class="wix-side__button" href="/assets/Larissa_Palethorpe_CV.pdf">Download CV</a>
     </div>
-  </div>
+  </aside>
 </div>
 
 ---
@@ -75,71 +77,67 @@ I am currently a Royal Society Career Development Fellow at the University of Br
 ## Research
 My research focuses on understanding the nature and evolution of small exoplanets, particularly those that lie at the boundary between rocky and volatile-rich worlds. Key themes include:
 
-- Exoplanet demographics and population-level trends  
-- The exoplanet radius valley and atmospheric loss  
-- Planet composition, interiors, and evolution  
-- Observational studies using TESS, CHEOPS, HARPS-N, and JWST 
+- Exoplanet demographics and population-level trends
+- The exoplanet radius valley and atmospheric loss
+- Planet composition, interiors, and evolution
+- Observational studies using TESS, CHEOPS, HARPS-N, and JWST
+
+---
 
 ## Education & Experience {#education}
-Education
-Sept 2017 – July 2021
-University of Nottingham
-MSci Hons; Physics with Astronomy
 
-Oct 2021 – Dec 2025
-University of Edinburgh & UCL
-PhD; Astronomy
+### Education
+- **MSci (Hons), Physics with Astronomy** — University of Nottingham *(Sept 2017 – July 2021)*
+- **PhD, Astronomy** — University of Edinburgh &amp; UCL *(Oct 2021 – Dec 2025)*
 
-Research Experience
-Oct 2021 – Dec 2025
-PhD Student
-Edinburgh, UK
-Supervisors: Prof. Ken Rice, Dr. Vincent Van Eylen
+### Research experience
+- **PhD Student** — Edinburgh, UK *(Oct 2021 – Dec 2025)*  
+  Supervisors: Prof. Ken Rice, Dr. Vincent Van Eylen
+- **Summer Research Student** — European Space Agency, Leiden, the Netherlands *(June 2021 – Aug 2021)*  
+  Advisors: Dr. Oliver Hall, Dr. Nicolas Crouzet
+- **Summer Research Intern** — Institute of Astronomy, University of Cambridge *(July 2020 – Sept 2020)*  
+  Advisor: Dr. Eugene Vasiliev
 
-June 2021 – Aug 2021
-Summer Research Student
-European Space Agency
-Leiden, the Netherlands
-Advisors: Dr. Oliver Hall, Dr. Nicolas Crouzet
-
-July 2020 – Sept 2020
-Summer Research Internship
-Institute of Astronomy, University of Cambridge
-Advisor: Dr. Eugene Vasiliev
+---
 
 ## Presentations & Honors {#presentations}
 I regularly present my research at international conferences and workshops.
 
 **Selected highlights**
-- Keynote: *Gliese 12 b* — UK Exoplanet Meeting 2024  
-- Contributed talks — UK Exoplanet Meeting, Scottish Exoplanet Meeting  
-- Posters — Exoplanets V, Extreme Solar Systems V, UK Exoplanet Meetings  
+- Keynote: *Gliese 12 b* — UK Exoplanet Meeting 2024
+- Contributed talks — UK Exoplanet Meeting, Scottish Exoplanet Meeting
+- Posters — Exoplanets V, Extreme Solar Systems V, UK Exoplanet Meetings
+
+---
 
 ## Publications & Abstracts {#publications}
 I am a joint first author on the discovery and characterisation of **Gliese 12 b**, a temperate Earth-sized exoplanet, and have led several first-author studies on the composition and evolution of small planets.
 
 **Selected publications**
-- Palethorpe et al. (2024), *MNRAS* — Confronting compositional confusion through the characterisation of a sub-Neptune  
-- Dholakia & Palethorpe et al. (2024), *MNRAS* — Gliese 12 b: a temperate Earth-sized planet at 12 pc  
+- Palethorpe et al. (2024), *MNRAS* — Confronting compositional confusion through the characterisation of a sub-Neptune
+- Dholakia &amp; Palethorpe et al. (2024), *MNRAS* — Gliese 12 b: a temperate Earth-sized planet at 12 pc
 
 A full publication list is available via:
 - [Google Scholar](https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en)
 - [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Palethorpe%2C%20L%22)
+
+---
 
 ## Outreach & Media {#outreach}
 My research and outreach work have featured in international media, including:
 
 - [NASA press release on the discovery of Gliese 12 b](https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/)
 - [CNN interview on Earth-sized exoplanets](https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn)
-- [New Scientist interview on Gliese 12 b](https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/)  
+- [New Scientist interview on Gliese 12 b](https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/)
 - [Sky News interview on Gliese 12 b](https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999)
 - [BBC *Sky at Night* — *Exoplanets: Strange New Worlds*](https://www.bbc.co.uk/programmes/m002fzbc)
 - [Physics World — *Pursuing joy in an alien world*](https://physicsworld.com/a/pursuing-joy-in-an-alien-world/)
 
 I am passionate about science communication and widening participation in physics and astronomy, and regularly give public talks and participate in outreach events.
 
-## Contact Information {#contact}
-Email: larissa.palethorpe@ed.ac.uk  
-LinkedIn: https://www.linkedin.com/in/larissapalethorpe/  
-ORCID: 0000-0002-1664-4105
 ---
+
+## Contact Information {#contact}
+- Email: <a href="mailto:larissa.palethorpe@ed.ac.uk">larissa.palethorpe@ed.ac.uk</a>  
+- LinkedIn: https://www.linkedin.com/in/larissapalethorpe/  
+- ORCID: 0000-0002-1664-4105
