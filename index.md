@@ -4,11 +4,45 @@ title: ""
 permalink: /
 ---
 
-<!-- HERO SECTION -->
-<div style="text-align:center; margin-bottom:2em;">
+<div class="wix-hero" id="top">
+  <div class="wix-hero__bg"></div>
 
-<img src="/assets/larissa.jpg" alt="Dr Larissa Palethorpe"
-     style="width:220px; border-radius:4px; margin-bottom:1em;">
+  <div class="wix-hero__nav">
+    <a href="#education">Education &amp; Experience</a>
+    <a href="#presentations">Presentations &amp; Honors</a>
+    <a href="#publications">Publications &amp; Abstracts</a>
+    <a href="#contact">Contact Information</a>
+  </div>
+
+  <div class="wix-hero__main">
+    <div>
+      <h1 class="wix-hero__name">Dr Larissa Palethorpe</h1>
+      <p class="wix-hero__tagline">Royal Society Career Development Fellow at the University of Bristol</p>
+    </div>
+  </div>
+
+  <div class="wix-hero__side">
+    <div class="wix-side">
+      <img class="wix-side__photo" src="/assets/larissa.jpg" alt="Dr Larissa Palethorpe">
+
+      <p class="wix-side__line"><span class="wix-side__muted">PhD in Astronomy</span><br>University of Edinburgh</p>
+      <p class="wix-side__line"><span class="wix-side__muted">Royal Society CDF</span><br>University of Bristol</p>
+
+      <p class="wix-side__line"><span class="wix-side__muted">Email</span><br>larissa.palethorpe@ed.ac.uk</p>
+
+      <div class="wix-side__icons">
+        <a href="https://orcid.org/0000-0002-1664-4105" aria-label="ORCID">ORCID</a>
+        <a href="https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en" aria-label="Google Scholar">Scholar</a>
+        <a href="https://www.linkedin.com/in/larissapalethorpe/" aria-label="LinkedIn">in</a>
+      </div>
+
+      <a class="wix-side__button" href="/assets/Larissa_Palethorpe_CV.pdf">Download CV</a>
+    </div>
+  </div>
+</div>
+
+---
+
 
 # Dr Larissa Palethorpe
 
