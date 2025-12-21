@@ -178,15 +178,44 @@
 }
 
 /* Remove all top spacing reserved for the header */
+/* --- Fix leftover top white strip (Minimal Mistakes spacing) --- */
 .masthead {
-  display: none;
+  display: none !important;
 }
 
+/* Some layouts still reserve space for the header */
+.initial-content,
+.page,
+#main {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Remove any default top padding inside the page wrapper */
 .page__inner-wrap {
   padding-top: 0 !important;
 }
 
-.page__content {
-  margin-top: 0 !important;
+/* --- Hero typography tweaks --- */
+.wix-hero__name {
+  /* slightly smaller so it stays on one line */
+  font-size: clamp(2.4rem, 5.1vw, 4.6rem) !important;
+  white-space: nowrap;
+}
+
+.wix-hero__tagline {
+  /* we’ll make the fellowship + Bristol line bigger below via HTML classes */
+  font-size: clamp(1.15rem, 1.9vw, 1.65rem) !important;
+}
+
+/* Make the top nav headings a bit smaller */
+.wix-hero__nav {
+  font-size: 0.95rem;
+  gap: 1.2rem;
+}
+
+/* Optional: reduce line breaks in nav on wide screens */
+.wix-hero__nav a {
+  line-height: 1.15;
 }
 
