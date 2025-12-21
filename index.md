@@ -41,7 +41,7 @@ permalink: /
         <span class="wix-side__muted">University of Bristol</span>
       </p>
 
-      <p class="wix-side__line">Email</span><br>larissa.palethorpe@ed.ac.uk</p>
+      <p class="wix-side__line">Email:<br>larissa.palethorpe@ed.ac.uk</p>
 
   <div class="wix-side__icons">
     <a href="https://orcid.org/0000-0002-1664-4105" aria-label="ORCID">
