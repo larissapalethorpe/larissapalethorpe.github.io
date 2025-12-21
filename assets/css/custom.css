@@ -177,3 +177,8 @@
   transform: translateY(-2px);
 }
 
+/* Hide default Minimal Mistakes header */
+.masthead {
+  display: none;
+}
+
