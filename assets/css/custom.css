@@ -46,10 +46,11 @@
   z-index: 1;
   height: 100%;
   display: flex;
-  align-items: flex-end;
-  padding: 6.5rem 6vw 6rem 6vw;
+  align-items: center;          /* vertically centers content */
+  padding: 4rem 6vw 4rem 6vw;   /* tighter, more balanced */
   max-width: 66%;
 }
+
 
 /* Big name + subtitle */
 .wix-hero__name {
