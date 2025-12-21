@@ -51,15 +51,6 @@
   max-width: 66%;
 }
 
-
-/* Big name + subtitle */
-.wix-hero__name {
-  font-size: clamp(2.8rem, 6vw, 5.5rem);
-  line-height: 1.02;
-  margin: 0 0 1rem 0;
-  color: #fff;
-}
-
 .wix-hero__tagline {
   font-size: clamp(1.1rem, 1.8vw, 1.6rem);
   font-style: italic;
