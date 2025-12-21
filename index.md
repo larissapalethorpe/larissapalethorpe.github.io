@@ -30,11 +30,20 @@ permalink: /
 
       <p class="wix-side__line"><span class="wix-side__muted">Email</span><br>larissa.palethorpe@ed.ac.uk</p>
 
-      <div class="wix-side__icons">
-        <a href="https://orcid.org/0000-0002-1664-4105" aria-label="ORCID">ORCID</a>
-        <a href="https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en" aria-label="Google Scholar">Scholar</a>
-        <a href="https://www.linkedin.com/in/larissapalethorpe/" aria-label="LinkedIn">in</a>
-      </div>
+  <div class="wix-side__icons">
+    <a href="https://orcid.org/0000-0002-1664-4105" aria-label="ORCID">
+      <i class="fab fa-orcid"></i>
+    </a>
+  
+    <a href="https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en" aria-label="Google Scholar">
+      <i class="fas fa-graduation-cap"></i>
+    </a>
+  
+    <a href="https://www.linkedin.com/in/larissapalethorpe/" aria-label="LinkedIn">
+      <i class="fab fa-linkedin-in"></i>
+    </a>
+  </div>
+
 
       <a class="wix-side__button" href="/assets/Larissa_Palethorpe_CV.pdf">Download CV</a>
     </div>
