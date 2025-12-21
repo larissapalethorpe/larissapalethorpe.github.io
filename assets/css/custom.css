@@ -98,8 +98,8 @@
 }
 
 .wix-side__photo {
-  width: 150px;
-  height: 150px;
+  width: 180px;
+  height: 180px;
   border-radius: 999px;
   object-fit: cover;
   border: 2px solid rgba(255,255,255,0.55);
@@ -177,8 +177,16 @@
   transform: translateY(-2px);
 }
 
-/* Hide default Minimal Mistakes header */
+/* Remove all top spacing reserved for the header */
 .masthead {
   display: none;
+}
+
+.page__inner-wrap {
+  padding-top: 0 !important;
+}
+
+.page__content {
+  margin-top: 0 !important;
 }
 
