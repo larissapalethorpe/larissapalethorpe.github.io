@@ -98,8 +98,8 @@
 }
 
 .wix-side__photo {
-  width: 210px;
-  height: 210px;
+  width: 250px;
+  height: 250px;
   border-radius: 999px;
   object-fit: cover;
   border: 2px solid rgba(255,255,255,0.55);
