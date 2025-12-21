@@ -238,3 +238,10 @@
   align-items: center;
   padding-top: 12vh;
 }
+
+/* Force hero title + subtitle to stay white (override theme styles) */
+.wix-hero .wix-hero__name,
+.wix-hero .wix-hero__tagline,
+.wix-hero .wix-hero__nav a {
+  color: #fff !important;
+}
