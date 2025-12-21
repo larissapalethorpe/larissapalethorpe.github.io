@@ -30,8 +30,12 @@ permalink: /
     <div class="wix-side">
       <img class="wix-side__photo" src="/assets/larissa.jpg" alt="Dr Larissa Palethorpe">
 
-      <p class="wix-side__line"><span class="wix-side__muted">PhD in Astronomy</span><br>University of Edinburgh</p>
-      <p class="wix-side__line"><span class="wix-side__muted">Royal Society CDF</span><br>University of Bristol</p>
+      <p class="wix-side__line">PhD in Astronomy</p>
+      <p class="wix-side__line wix-side__muted">University of Edinburgh</p>
+
+      <p class="wix-side__line">Royal Society CDF</p>
+      <p class="wix-side__line wix-side__muted">University of Bristol</p>
+
 
       <p class="wix-side__line"><span class="wix-side__muted">Email</span><br>larissa.palethorpe@ed.ac.uk</p>
 
