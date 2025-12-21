@@ -217,3 +217,8 @@
   line-height: 1.15;
 }
 
+/* Hide page title header but keep <title> tag */
+.page__title,
+.page__meta {
+  display: none !important;
+}
