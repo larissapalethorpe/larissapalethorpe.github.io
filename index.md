@@ -81,7 +81,31 @@ My research focuses on understanding the nature and evolution of small exoplanet
 - Observational studies using TESS, CHEOPS, HARPS-N, and JWST 
 
 ## Education & Experience {#education}
-(…content…)
+Education
+Sept 2017 – July 2021
+University of Nottingham
+MSci Hons; Physics with Astronomy
+
+Oct 2021 – Dec 2025
+University of Edinburgh & UCL
+PhD; Astronomy
+
+Research Experience
+Oct 2021 – Dec 2025
+PhD Student
+Edinburgh, UK
+Supervisors: Prof. Ken Rice, Dr. Vincent Van Eylen
+
+June 2021 – Aug 2021
+Summer Research Student
+European Space Agency
+Leiden, the Netherlands
+Advisors: Dr. Oliver Hall, Dr. Nicolas Crouzet
+
+July 2020 – Sept 2020
+Summer Research Internship
+Institute of Astronomy, University of Cambridge
+Advisor: Dr. Eugene Vasiliev
 
 ## Presentations & Honors {#presentations}
 I regularly present my research at international conferences and workshops.
