@@ -11,13 +11,18 @@ permalink: /
     <a href="#education">Education &amp; Experience</a>
     <a href="#presentations">Presentations &amp; Honors</a>
     <a href="#publications">Publications &amp; Abstracts</a>
+    <a href="#outreach">Outreach &amp; Media</a>
     <a href="#contact">Contact Information</a>
   </div>
+
 
   <div class="wix-hero__main">
     <div>
       <h1 class="wix-hero__name">Dr Larissa Palethorpe</h1>
-      <p class="wix-hero__tagline">Royal Society Career Development Fellow at the University of Bristol</p>
+    <p class="wix-hero__tagline">
+      <span style="font-size:1.12em;">Royal Society Career Development Fellow</span><br>
+      <span style="font-size:1.12em;">University of Bristol</span>
+    </p>
     </div>
   </div>
 
@@ -51,6 +56,21 @@ permalink: /
 </div>
 
 ---
+
+## Education & Experience {#education}
+(…content…)
+
+## Presentations & Honors {#presentations}
+(…content…)
+
+## Publications & Abstracts {#publications}
+(…content…)
+
+## Outreach & Media {#outreach}
+(…your outreach/media content…)
+
+## Contact Information {#contact}
+(…content…)
 
 
 # Dr Larissa Palethorpe
