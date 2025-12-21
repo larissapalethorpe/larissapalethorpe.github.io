@@ -104,7 +104,7 @@ A full publication list is available via:
 ## Outreach & Media {#outreach}
 My research and outreach work have featured in international media, including:
 
-- [NASA press release on the discovery of Gliese 12 b]((https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/))
+- [NASA press release on the discovery of Gliese 12 b](https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/)
 - [CNN interview on Earth-sized exoplanets](https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn)
 - [New Scientist interview on Gliese 12 b](https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/)  
 - [Sky News interview on Gliese 12 b](https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999)
