@@ -216,3 +216,25 @@
 .wix-hero__nav a {
   line-height: 1.15;
 }
+
+/* --- Force hero to be true top of viewport --- */
+.initial-content,
+.page,
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Lock hero to viewport */
+.wix-hero {
+  position: relative;
+  top: 0;
+}
+
+/* Place hero text in lower-middle consistently */
+.wix-hero__main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-top: 12vh;
+}
