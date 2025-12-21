@@ -271,3 +271,29 @@ body {
 .page__content * {
   color: #111;
 }
+
+/* === Force Wix-style white panel on the actual content wrapper (Minimal Mistakes) === */
+.page__inner-wrap,
+.page__content,
+.initial-content .page,
+.initial-content .page__inner-wrap,
+.initial-content .page__content {
+  max-width: 1100px !important;
+  margin: 3rem auto !important;
+  padding: 3rem !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.18) !important;
+}
+
+/* Make sure text inside the panel is dark */
+.page__inner-wrap,
+.page__inner-wrap * {
+  color: #111 !important;
+}
+
+/* Remove those divider lines MM adds */
+.page__inner-wrap hr,
+.page__inner-wrap .page__content hr {
+  display: none !important;
+}
