@@ -163,9 +163,123 @@ body {
   border-bottom-color: rgba(255, 255, 255, 0.6);
 }
 
+/* =========================
+   Mobile menu (hamburger + drawer)
+   ========================= */
+.wix-menu-btn {
+  position: absolute;
+  top: 1.2rem;
+  left: 1.2rem;
+  z-index: 9999;
+
+  width: 54px;
+  height: 54px;
+  border-radius: 10px;
+
+  background: rgba(255,255,255,0.10);
+  border: 2px solid rgba(255,255,255,0.65);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+
+  display: none;            /* shown on mobile via media query */
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  flex-direction: column;
+
+  cursor: pointer;
+}
+
+.wix-menu-btn__bar {
+  width: 26px;
+  height: 2px;
+  background: #fff;
+  display: block;
+}
+
+/* Drawer panel */
+.wix-drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: min(78vw, 340px);
+  padding: 5.5rem 2rem 2rem;
+
+  background: #5b6ee1;
+  color: #fff;
+  z-index: 10000;
+
+  transform: translateX(-105%);
+  transition: transform 220ms ease;
+}
+
+.wix-drawer a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.55rem;
+  line-height: 1.25;
+  letter-spacing: 0.02em;
+  margin: 1.6rem 0;
+}
+
+.wix-drawer__close {
+  position: absolute;
+  top: 1.1rem;
+  right: 1.1rem;
+  width: 52px;
+  height: 52px;
+
+  border-radius: 12px;
+  border: 2px solid rgba(255,255,255,0.65);
+  background: rgba(255,255,255,0.10);
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* Overlay */
+.wix-drawer-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 9999;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 220ms ease;
+}
+
+/* Open state */
+body.drawer-open .wix-drawer {
+  transform: translateX(0);
+}
+body.drawer-open .wix-drawer-overlay {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Show hamburger on mobile */
 @media (max-width: 900px) {
-  .wix-hero__nav {
-    display: none;
+  .wix-hero {
+    min-height: auto;
+  }
+
+  .wix-hero__main {
+    height: auto;              
+    padding: 7rem 7vw 2rem; 
+  }
+
+  .wix-hero__side {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+  }
+
+  .wix-side__photo {
+    width: 180px;
+    height: 180px;
   }
 }
 
