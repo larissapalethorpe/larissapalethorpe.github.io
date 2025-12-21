@@ -16,15 +16,15 @@ permalink: /
   </div>
 
 
-  <div class="wix-hero__main">
-    <div>
-      <h1 class="wix-hero__name">Dr Larissa Palethorpe</h1>
+<div class="wix-hero__main">
+  <div class="wix-hero__textblock">
+    <h1 class="wix-hero__name">Dr Larissa Palethorpe</h1>
     <p class="wix-hero__tagline">
       <span style="font-size:1.12em;">Royal Society Career Development Fellow</span><br>
       <span style="font-size:1.12em;">University of Bristol</span>
     </p>
-    </div>
   </div>
+</div>
 
   <div class="wix-hero__side">
     <div class="wix-side">
