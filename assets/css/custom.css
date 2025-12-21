@@ -1,27 +1,168 @@
-/* Full-screen hero split layout (Wix-like) */
+/* ==========================================================================
+   Wix-like split hero + Minimal Mistakes (or similar) theme spacing overrides
+   ========================================================================== */
+
+/* --- Design tokens (easy site-wide tweaks) --- */
+:root {
+  --bg-image: url("/assets/Gl12b_Illustration.jpg");
+
+  --hero-overlay: rgba(0, 0, 0, 0.25);
+  --side-bg: rgba(10, 16, 28, 0.55);
+  --side-blur: 4px;
+
+  --text-on-dark: rgba(255, 255, 255, 0.92);
+  --text-on-dark-muted: rgba(255, 255, 255, 0.75);
+
+  --panel-bg: rgba(255, 255, 255, 0.92);
+  --panel-text: #111;
+
+  --panel-radius: 10px;
+  --panel-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+
+  --side-width: 34%;
+  --side-min-width: 320px;
+}
+
+/* ==========================================================================
+   Theme overrides: remove top header strip / spacing (Minimal Mistakes style)
+   NOTE: if you later want a normal header back, remove this block.
+   ========================================================================== */
+.masthead {
+  display: none !important;
+}
+
+.initial-content,
+.page,
+#main,
+.page__content,
+.page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* ==========================================================================
+   Background + main content panel styling
+   ========================================================================== */
+body {
+  /* Full-page background like Wix (continues after hero) */
+  background: center/cover no-repeat fixed var(--bg-image);
+}
+
+/* "White panel" look for content below the hero */
+.page__content {
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 3rem;
+  background: var(--panel-bg);
+  border-radius: var(--panel-radius);
+  box-shadow: var(--panel-shadow);
+  color: var(--panel-text);
+}
+
+/* Ensure theme typography doesn’t override panel text */
+.page__content * {
+  color: inherit;
+}
+
+/* ==========================================================================
+   HERO (split layout)
+   ========================================================================== */
 .wix-hero {
   position: relative;
   min-height: 100vh;
   width: 100vw;
+
+  /* Full-bleed inside a centered theme wrapper */
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
+
   overflow: hidden;
 }
 
-/* Left background image */
+/* Background layer.
+   Because body already has the same background, we keep this transparent to avoid
+   a "double" background rendering. If you later remove the body background, set
+   this to: background: center/cover no-repeat var(--bg-image);
+*/
 .wix-hero__bg {
   position: absolute;
   inset: 0;
-  background: url("/assets/Gl12b_Illustration.jpg") center/cover no-repeat;
+  background: transparent;
   filter: saturate(1.05);
 }
 
-/* Optional darkening so text pops */
 .wix-hero__bg::after {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0,0,0,0.25);
+  background: var(--hero-overlay);
+}
+
+/* Top nav */
+.wix-hero__nav {
+  position: absolute;
+  top: 1.4rem;
+  left: 2.2rem;
+  right: calc(var(--side-width) + 2%);
+  z-index: 2;
+
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+.wix-hero__nav a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0);
+  padding-bottom: 2px;
+  line-height: 1.15;
+}
+
+.wix-hero__nav a:hover {
+  color: #fff;
+  border-bottom-color: rgba(255, 255, 255, 0.6);
+}
+
+/* Left content area (name + title block) */
+.wix-hero__main {
+  position: relative;
+  z-index: 1;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+
+  /* Controls vertical placement on the page */
+  padding: 12vh 6vw 4rem 6vw;
+  max-width: calc(100% - var(--side-width));
+}
+
+.wix-hero__textblock {
+  /* Small nudge only; avoid lots of magic numbers */
+  margin-bottom: 2vh;
+}
+
+/* Hero typography */
+.wix-hero__name {
+  font-size: clamp(2.4rem, 5.1vw, 4.6rem);
+  white-space: nowrap;
+  color: #fff;
+}
+
+.wix-hero__tagline {
+  font-size: clamp(1.15rem, 1.9vw, 1.65rem);
+  font-style: italic;
+  margin: 0.5rem 0 0 0;
+  color: var(--text-on-dark);
+}
+
+/* Instead of inline styles in HTML */
+.wix-hero__tagline-strong {
+  font-size: 1.12em;
 }
 
 /* Right panel */
@@ -29,64 +170,18 @@
   position: absolute;
   top: 0;
   right: 0;
-  width: 34%;
-  min-width: 320px;
+
+  width: var(--side-width);
+  min-width: var(--side-min-width);
   height: 100%;
-  background: rgba(10, 16, 28, 0.55);
-  backdrop-filter: blur(4px);
+
+  background: var(--side-bg);
+  backdrop-filter: blur(var(--side-blur));
   color: #fff;
+
   display: flex;
   align-items: center;
   padding: 2.5rem 2rem;
-}
-
-/* Left content */
-.wix-hero__main {
-  position: relative;
-  z-index: 1;
-  height: 100%;
-  display: flex;
-  align-items: flex-end;       /* anchor at bottom */
-  padding: 4rem 6vw 4rem 6vw;  /* safe padding */
-  max-width: 66%;
-}
-
-/* Control vertical placement of name/title block */
-.wix-hero__textblock {
-  margin-bottom: 2vh; /* pushes content DOWN when aligned to bottom */
-}
-
-
-.wix-hero__tagline {
-  font-size: clamp(1.1rem, 1.8vw, 1.6rem);
-  font-style: italic;
-  margin: 0 0 0.5rem 0;
-  color: rgba(255,255,255,0.92);
-}
-
-/* Top nav (simple) */
-.wix-hero__nav {
-  position: absolute;
-  top: 1.4rem;
-  left: 2.2rem;
-  right: 36%;
-  z-index: 2;
-  display: flex;
-  gap: 1.6rem;
-  justify-content: center;
-  font-style: italic;
-}
-
-.wix-hero__nav a {
-  color: rgba(255,255,255,0.85);
-  text-decoration: none;
-  border-bottom: 1px solid rgba(255,255,255,0.0);
-  padding-bottom: 2px;
-}
-
-.wix-hero__nav a:hover {
-  color: #fff;
-  border-bottom-color: rgba(255,255,255,0.6);
 }
 
 /* Side panel content */
@@ -100,20 +195,21 @@
   height: 250px;
   border-radius: 999px;
   object-fit: cover;
-  border: 2px solid rgba(255,255,255,0.55);
+  border: 2px solid rgba(255, 255, 255, 0.55);
   margin-bottom: 1rem;
 }
 
 .wix-side__line {
   margin: 0.6rem 0;
-  color: rgba(255,255,255,0.9);
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .wix-side__muted {
-  color: rgba(255,255,255,0.75);
+  color: var(--text-on-dark-muted);
   font-style: italic;
 }
 
+/* Icons */
 .wix-side__icons {
   margin: 1.2rem 0 1.6rem 0;
   display: flex;
@@ -121,27 +217,42 @@
   gap: 1rem;
 }
 
-.wix-side__icons a {
-  color: rgba(255,255,255,0.9);
-  text-decoration: none;
-  font-size: 1.15rem;
+.wix-side__icons i {
+  font-size: 1.35rem;
 }
 
+.wix-side__icons a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  font-size: 1.15rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.wix-side__icons a:hover {
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+/* Button */
 .wix-side__button {
   display: inline-block;
   margin-top: 0.3rem;
   padding: 0.8rem 1.2rem;
-  border: 1px solid rgba(255,255,255,0.7);
+
+  border: 1px solid rgba(255, 255, 255, 0.7);
   border-radius: 4px;
+
   color: #fff;
   text-decoration: none;
 }
 
 .wix-side__button:hover {
-  background: rgba(255,255,255,0.12);
+  background: rgba(255, 255, 255, 0.12);
 }
 
-/* Make it mobile-friendly: stack side panel underneath */
+/* ==========================================================================
+   Responsive: stack side panel underneath
+   ========================================================================== */
 @media (max-width: 900px) {
   .wix-hero__side {
     position: relative;
@@ -149,125 +260,23 @@
     min-width: 0;
     height: auto;
   }
+
   .wix-hero__main {
     max-width: 100%;
     padding: 6rem 7vw 3rem 7vw;
-    align-items: center;
+    justify-content: center;
+    text-align: center;
   }
+
+  .wix-hero__name {
+    white-space: normal;
+  }
+
   .wix-hero__nav {
-    right: 0;
     left: 0;
+    right: 0;
+    padding: 0 1rem;
+    flex-wrap: wrap;
   }
 }
 
-/* Icon styling (Wix-style) */
-.wix-side__icons i {
-  font-size: 1.35rem;
-}
-
-.wix-side__icons a {
-  color: rgba(255,255,255,0.9);
-  transition: color 0.2s ease, transform 0.2s ease;
-}
-
-.wix-side__icons a:hover {
-  color: #ffffff;
-  transform: translateY(-2px);
-}
-
-/* Remove all top spacing reserved for the header */
-/* --- Fix leftover top white strip (Minimal Mistakes spacing) --- */
-.masthead {
-  display: none !important;
-}
-
-/* Some layouts still reserve space for the header */
-.initial-content,
-.page,
-#main {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-/* Remove any default top padding inside the page wrapper */
-.page__inner-wrap {
-  padding-top: 0 !important;
-}
-
-/* --- Hero typography tweaks --- */
-.wix-hero__name {
-  /* slightly smaller so it stays on one line */
-  font-size: clamp(2.4rem, 5.1vw, 4.6rem) !important;
-  white-space: nowrap;
-}
-
-.wix-hero__tagline {
-  /* we’ll make the fellowship + Bristol line bigger below via HTML classes */
-  font-size: clamp(1.15rem, 1.9vw, 1.65rem) !important;
-}
-
-/* Make the top nav headings a bit smaller */
-.wix-hero__nav {
-  font-size: 0.95rem;
-  gap: 1.2rem;
-}
-
-/* Optional: reduce line breaks in nav on wide screens */
-.wix-hero__nav a {
-  line-height: 1.15;
-}
-
-/* --- Force hero to be true top of viewport --- */
-.initial-content,
-.page,
-.page__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Lock hero to viewport */
-.wix-hero {
-  position: relative;
-  top: 0;
-}
-
-/* Place hero text in lower-middle consistently */
-.wix-hero__main {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  padding-top: 12vh;
-}
-
-/* Force hero title + subtitle to stay white (override theme styles) */
-.wix-hero .wix-hero__name,
-.wix-hero .wix-hero__tagline,
-.wix-hero .wix-hero__nav a {
-  color: #fff !important;
-}
-
-/* Full-page background like Wix (continues after hero) */
-body {
-  background: url("/assets/Gl12b_Illustration.jpg") center/cover no-repeat fixed;
-}
-
-/* Let the hero use the page background (avoid double background) */
-.wix-hero__bg {
-  background: transparent !important;
-}
-
-/* Apply the "white panel" look to the actual rendered content area */
-.page__content {
-  max-width: 1100px;
-  margin: 3rem auto;
-  padding: 3rem;
-  background: rgba(255,255,255,0.92);
-  border-radius: 10px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.18);
-}
-
-/* Make sure text is readable inside the panel */
-.page__content,
-.page__content * {
-  color: #111;
-}
