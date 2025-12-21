@@ -46,10 +46,16 @@
   z-index: 1;
   height: 100%;
   display: flex;
-  align-items: center;          /* vertically centers content */
-  padding: 4rem 6vw 4rem 6vw;   /* tighter, more balanced */
+  align-items: flex-end;       /* anchor at bottom */
+  padding: 4rem 6vw 4rem 6vw;  /* safe padding */
   max-width: 66%;
 }
+
+/* Control vertical placement of name/title block */
+.wix-hero__textblock {
+  margin-bottom: 10vh; /* pushes content DOWN when aligned to bottom */
+}
+
 
 .wix-hero__tagline {
   font-size: clamp(1.1rem, 1.8vw, 1.6rem);
