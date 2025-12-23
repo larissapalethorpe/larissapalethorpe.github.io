@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Larissa Palethorpe | Royal Society Career Development Fellow"
+title: ""
 permalink: /
 ---
 
