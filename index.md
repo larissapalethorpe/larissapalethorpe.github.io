@@ -21,7 +21,7 @@ permalink: /
     <button class="wix-drawer__close" type="button" aria-label="Close menu">&times;</button>
     <a href="#education">Education &amp; Experience</a>
     <a href="#presentations">Presentations &amp; Honors</a>
-    <a href="#publications">Publications &amp; Abstracts</a>
+    <a href="#publications">Publications</a>
     <a href="#outreach">Outreach &amp; Media</a>
     <a href="#contact">Contact Information</a>
   </aside>
@@ -87,7 +87,7 @@ permalink: /
 <div class="wix-panel" markdown="1">
 
 ## About
-I am an astrophysicist studying the formation and evolution of exoplanets, with a particular focus on small planets and population-level trends. My work combines observational data and statistical techniques to understand how planetary systems assemble, evolve, and lose their atmospheres over time.
+I am an astrophysicist studying the formation and evolution of exoplanets, with a particular focus on small planets in transitional regimes and population-level trends. My work combines observational data and statistical techniques to understand how planetary systems assemble, evolve, and lose their atmospheres over time.
 
 I am currently a Royal Society Career Development Fellow at the University of Bristol, where I lead independent research into small exoplanets in transitional regimes using data from missions including TESS, CHEOPS, HARPS-N, and JWST.
 
@@ -99,7 +99,7 @@ My research focuses on understanding the nature and evolution of small exoplanet
 - Exoplanet demographics and population-level trends
 - The exoplanet radius valley and atmospheric loss
 - Planet composition, interiors, and evolution
-- Observational studies using transit and radial velocity data
+- Observational studies using transit and radial velocity data from space- and ground-based facilities
 
 ---
 
@@ -132,41 +132,53 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 ### Invited & selected talks
 
-- **Keynote** — *Gliese 12 b: A Temperate Earth-sized Planet at 12 pc*  
-  UK Exoplanet Meeting 2024, University of Birmingham
+- **Keynote** — *Gliese 12 b: A Temperate Earth-sized Planet at 12 pc*, UK Exoplanet Meeting 2024, University of Birmingham
   
-- **Invited public lectures** — *The Search for Planet b*  
-  Dark Space Planetarium, Kirkudbright (2024)
+- **Invited public lectures** — *The Search for Planet b*, Dark Space Planetarium, Kirkudbright (2024)
 
-- **Invited panel member** — *Amplify: The Black Undergraduate Physics Symposium*  
-  Universities of Manchester (2024) and Southampton (2025)
+- **Invited panel member** — *Amplify: The Black Undergraduate Physics Symposium*, Universities of Manchester (2024) and Southampton (2025)
 
-- **Invited colloquium talk** — *Characterising Small Exoplanets*  
-  Institute for Astronomy, University of Edinburgh (2024)
+- **Invited colloquium talk** — *Characterising Small Exoplanets*, Institute for Astronomy, University of Edinburgh (2024)
 
 ### Conferences & contributed presentations
 
 I regularly present my research at international conferences and workshops, including:
 
-- UK Exoplanet Meeting (keynote, talks, and posters)
+- UK Exoplanet Meetings (keynote, talks, and posters)
 - Exoplanets V (Leiden)
 - Extreme Solar Systems V (Christchurch)
 - Advanced School on Exoplanetary Science (Italy)
-- London Exoplanet Day
+- London Exoplanet Days
 - Scottish Exoplanet Meeting
 
 Contributions include talks and posters on the characterisation and evolution of small exoplanets using data from TESS, CHEOPS, HARPS-N, and K2.
 
 ---
 
-## Publications & Abstracts {#publications}
-I am a joint first author on the discovery and characterisation of **Gliese 12 b**, a temperate Earth-sized exoplanet, and have led several first-author studies on the composition and evolution of small planets.
+## Publications {#publications}
 
-**Selected publications**
-- Palethorpe et al. (2024), *MNRAS* — Confronting compositional confusion through the characterisation of a sub-Neptune
-- Dholakia &amp; Palethorpe et al. (2024), *MNRAS* — Gliese 12 b: a temperate Earth-sized planet at 12 pc
+My research focuses on the characterisation and evolution of small exoplanets, with particular emphasis on planets in transitional regimes such as the radius valley. I am a joint first author on the discovery and characterisation of **Gliese 12 b**, a temperate Earth-sized exoplanet at 12 pc, and have led multiple first-author studies on small-planet composition and interiors.
 
-A full publication list is available via:
+### Selected and first-authored publications
+
+- **Palethorpe et al.** (2025), *MNRAS* —  
+  *Constraining Small Planet Compositions for the Habitable Worlds Era*  
+  *(submitted)*
+  
+- **Dholakia* & Palethorpe* et al.** (2024), *MNRAS* —  
+  *Gliese 12 b: a temperate Earth-sized planet at 12 pc discovered with TESS and CHEOPS*  
+  *(joint first authorship)*  
+  [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1276D/abstract) • [Journal](https://academic.oup.com/mnras/article/531/1/1276/7679807)
+
+- **Palethorpe et al.** (2024), *MNRAS* —  
+  *Confronting compositional confusion through the characterisation of a sub-Neptune*  
+  [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.3323P/abstract) • [Journal](https://academic.oup.com/mnras/article/529/4/3323/7624680)
+
+### Co-authored publications
+
+I am a co-author on a number of additional peer-reviewed publications arising from the **CHEOPS**, **HARPS-N**, and **TESS** collaborations, including studies published in *Monthly Notices of the Royal Astronomical Society*, *Astronomy & Astrophysics*, and *Science*.
+
+A complete and up-to-date publication list is available via:
 - [Google Scholar](https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en)
 - [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Palethorpe%2C%20L%22)
 
