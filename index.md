@@ -121,13 +121,41 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 ---
 
-## Presentations & Honors {#presentations}
-I regularly present my research at international conferences and workshops.
+## Presentations, Talks & Honors {#presentations}
 
-**Selected highlights**
-- Keynote: *Gliese 12 b* — UK Exoplanet Meeting 2024
-- Contributed talks — UK Exoplanet Meeting, Scottish Exoplanet Meeting
-- Posters — Exoplanets V, Extreme Solar Systems V, UK Exoplanet Meetings
+### Honors & awards
+
+- **STEM for Britain Finalist** — Houses of Parliament, London (2024)
+- **3 Minute Thesis University Grand Finalist** — University of Edinburgh (2024)
+- **Students’ Association Teaching Award Nominee** — University of Edinburgh (2025)
+- **Fully funded PhD Scholarship** — School of Physics & Astronomy, University of Edinburgh
+
+### Invited & selected talks
+
+- **Keynote** — *Gliese 12 b: A Temperate Earth-sized Planet at 12 pc*  
+  UK Exoplanet Meeting 2024, University of Birmingham
+  
+- **Invited public lectures** — *The Search for Planet b*  
+  Dark Space Planetarium, Kirkudbright (2024)
+
+- **Invited panel member** — *Amplify: The Black Undergraduate Physics Symposium*  
+  Universities of Manchester (2024) and Southampton (2025)
+
+- **Invited colloquium talk** — *Characterising Small Exoplanets*  
+  Institute for Astronomy, University of Edinburgh (2024)
+
+### Conferences & contributed presentations
+
+I regularly present my research at international conferences and workshops, including:
+
+- UK Exoplanet Meeting (keynote, talks, and posters)
+- Exoplanets V (Leiden)
+- Extreme Solar Systems V (Christchurch)
+- Advanced School on Exoplanetary Science (Italy)
+- London Exoplanet Day
+- Scottish Exoplanet Meeting
+
+Contributions include talks and posters on the characterisation and evolution of small exoplanets using data from TESS, CHEOPS, HARPS-N, and K2.
 
 ---
 
@@ -152,22 +180,17 @@ I view science communication as an integral part of research practice, particula
 
 My joint first-author work on the discovery and characterisation of *Gliese 12 b* received extensive international media coverage, including:
 
-- **NASA press release** — *NASA’s TESS Finds Intriguing World Sized Between Earth and Venus*  
-  <https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/>
+- **NASA press release** — [*NASA’s TESS Finds Intriguing World Sized Between Earth and Venus*](https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/)
 
-- **CNN** — Interview for *Scientists have discovered a theoretically habitable, Earth-size planet*  
-  <https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn>
+- **CNN** — Interview for [*Scientists have discovered a theoretically habitable, Earth-size planet*](https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn)
 
-- **New Scientist** — Interview for *Earth-like exoplanet found just 40 light years away – the closest yet*  
-  <https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/>
+- **New Scientist** — Interview for [*Earth-like exoplanet found just 40 light years away – the closest yet*](https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/)  
 
-- **Sky News** — Interview on the discovery of *Gliese 12 b*  
-  <https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999>
+- **Sky News** — Interview on [the discovery of *Gliese 12 b*](https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999) 
 
 - **Radio interviews** — [CKNW (Vancouver)](https://dcs-spotify.megaphone.fm/CORU3323694655.mp3?key=394e82baa749ed19a1689722db14a5b4\&request_event_id=78232ba5-87b2-44b6-9a03-521c048dfe83\&session_id=78232ba5-87b2-44b6-9a03-521c048dfe83\&timetoken=1761061808_FF5F3DF22AA4CC7DF60BCA916A18ABF9) and [Newstalk (Dublin)](https://www.newstalk.com/podcasts/highlights-from-moncrieff/a-new-habitable-planet-has-been-discovered) discussing the discovery process  
 
-- **Podcast** — *Discovering Planet b*, Astronomy Astrophiz (200th episode special)  
-  <https://astrophiz.com/2024/09/15/astronomy-astrophiz200-larissa-palethorpe-planet-b/>
+- **Podcast** — [*Discovering Planet b*](https://astrophiz.com/2024/09/15/astronomy-astrophiz200-larissa-palethorpe-planet-b/), Astronomy Astrophiz (200th episode special)
 
 ### Science communication & public engagement
 
@@ -178,9 +201,7 @@ Beyond media coverage of my research, I actively contribute to public engagement
 - **Invited contributor**, *Brian Cox: Seven Days on Mars* — BBC *Points of View* (BBC One, 2022)
 
 - **Written science communication** —  
-  *Using Gaussian Processes to Study Exoplanet Transits & Stellar Variability Simultaneously*,  
-  Astrobites (October 2021)  
-  <https://astrobites.org/2021/10/27/ur-gp-transit/>
+  [*Using Gaussian Processes to Study Exoplanet Transits & Stellar Variability Simultaneously*](https://astrobites.org/2021/10/27/ur-gp-transit/), Astrobites (October 2021)  
 
 ### Outreach & educational engagement
 
@@ -200,8 +221,7 @@ I am actively involved in outreach and engagement initiatives aimed at widening 
 - BAME Representative, School of Physics & Astronomy, University of Edinburgh
 - Student Community Committee Member, Institute of Physics
 - East Midlands Regional Committee Member, Institute of Physics  
-  – Led the design and international launch of a GirlGuiding–IOP physics badge, including supporting its rollout in Canada and contributing to its global adoption  
-  ([interactive map of global badge uptake](https://www.google.com/maps/d/viewer?mid=1mut0VpaKZXg73Cc4tCDLHWC0r5LnG6JA))
+  – Led the design and international launch of a GirlGuiding–IOP physics badge, including supporting its rollout in Canada and contributing to its global adoption ([interactive map of global badge uptake](https://www.google.com/maps/d/viewer?mid=1mut0VpaKZXg73Cc4tCDLHWC0r5LnG6JA))
 
 **Science communication roles**
 - Interviewer for *Higgs Chats*, Higgs Centre for Theoretical Physics
