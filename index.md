@@ -107,7 +107,8 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 ### Education
 - **MSci (Hons), Physics with Astronomy** — University of Nottingham *(Sept 2017 – July 2021)*
-- **PhD, Astronomy** — University of Edinburgh &amp; UCL *(Oct 2021 – Dec 2025)*
+- **PhD, Astronomy** — University of Edinburgh & UCL *(Oct 2021 – Dec 2025)*  
+  *Thesis:* [Characterising Small Exoplanets](https://era.ed.ac.uk/items/c15f6106-5ea8-43e0-ba74-51e278ab944b)
 
 ### Research experience
 - **Royal Society Career Development Fellow** — Bristol, UK *(Jan 2026 – Current)*  
@@ -125,9 +126,9 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 ### Honors & awards
 
-- **STEM for Britain Finalist** — Houses of Parliament, London (2024)
-- **3 Minute Thesis University Grand Finalist** — University of Edinburgh (2024)
 - **Students’ Association Teaching Award Nominee** — University of Edinburgh (2025)
+- **STEM for Britain Finalist** — Houses of Parliament, London (2024)
+- p**3 Minute Thesis University Grand Finalist**](https://media.ed.ac.uk/media/3MT+Final+2024++-+Larissa+Palethorpe/1_5bdlpcdo) — University of Edinburgh (2024)
 - **Fully funded PhD Scholarship** — School of Physics & Astronomy, University of Edinburgh
 
 ### Invited & selected talks
@@ -183,6 +184,32 @@ A complete and up-to-date publication list is available via:
 - [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Palethorpe%2C%20L%22)
 
 ---
+
+## Teaching & Supervision {#teaching}
+
+I have teaching and supervision experience across undergraduate and postgraduate levels in astronomy, astrophysics, astrobiology, and data analysis. My teaching focuses on quantitative skills, scientific programming, and research-led learning.
+
+### Teaching
+
+I have contributed to a broad range of courses as a teaching assistant, chief teaching assistant, and invited guest lecturer, including:
+
+- Introductory Astrophysics (Teaching Assistant; Chief Teaching Assistant)
+- Astrobiology and Astrobiology Methods (MSc) — Invited Guest Lecturer
+- Scientific Programming & Data Analysis
+- Scientific Image Analysis
+- Astrophysics: Stars and Planets
+- Computer Modelling and Simulation
+- Physics & Geoscience Outreach & Engagement — Invited Guest Lecturer
+
+My roles span core undergraduate teaching, specialist MSc modules, and outreach-focused teaching, often incorporating real astronomical datasets and research examples.
+
+### Supervision
+
+I have supervised undergraduate students on outreach- and engagement-based projects within Physics & Geoscience Outreach & Engagement.
+
+Between 2022 and 2025, I supervised eight students, supporting the design and delivery of community-focused physics outreach projects and mentoring students in science communication, project management, and public engagement.
+
+--
 
 ## Outreach, Media & Science Communication {#outreach}
 
