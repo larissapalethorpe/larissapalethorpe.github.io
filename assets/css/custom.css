@@ -453,3 +453,20 @@ body {
     display: none;
   }
 }
+
+/* Mobile: override desktop hero height (must be after the base .wix-hero__main rule) */
+@media (max-width: 900px) {
+  .wix-hero {
+    min-height: auto;
+  }
+
+  .wix-hero__main {
+    height: auto;
+    padding: 6rem 7vw 2rem; /* tweak if you want less top space */
+  }
+
+  .wix-hero__side {
+    margin-top: 1rem;
+    padding-top: 1rem;
+  }
+}
