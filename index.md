@@ -7,6 +7,25 @@ permalink: /
 <div class="wix-hero" id="top">
   <div class="wix-hero__bg"></div>
 
+  <!-- Mobile hamburger -->
+  <button class="wix-menu-btn" type="button" aria-label="Open menu" aria-controls="wix-drawer">
+    <span class="wix-menu-btn__bar"></span>
+    <span class="wix-menu-btn__bar"></span>
+    <span class="wix-menu-btn__bar"></span>
+  </button>
+
+  <!-- Drawer + overlay -->
+  <div class="wix-drawer-overlay" tabindex="-1" aria-hidden="true"></div>
+
+  <aside class="wix-drawer" id="wix-drawer" aria-label="Mobile navigation">
+    <button class="wix-drawer__close" type="button" aria-label="Close menu">&times;</button>
+    <a href="#education">Education &amp; Experience</a>
+    <a href="#presentations">Presentations &amp; Honors</a>
+    <a href="#publications">Publications &amp; Abstracts</a>
+    <a href="#outreach">Outreach &amp; Media</a>
+    <a href="#contact">Contact Information</a>
+  </aside>
+
   <nav class="wix-hero__nav" aria-label="Primary">
     <a href="#education">Education &amp; Experience</a>
     <a href="#presentations">Presentations &amp; Honors</a>
@@ -63,9 +82,9 @@ permalink: /
       <a class="wix-side__button" href="/assets/Larissa_Palethorpe_CV.pdf">Download CV</a>
     </div>
   </aside>
-</div>
+</div> <!-- end wix-hero -->
 
----
+<div class="wix-panel" markdown="1">
 
 ## About
 I am an astrophysicist studying the formation and evolution of exoplanets, with a particular focus on small planets and population-level trends. My work combines observational data and statistical techniques to understand how planetary systems assemble, evolve, and lose their atmospheres over time.
@@ -141,3 +160,5 @@ I am passionate about science communication and widening participation in physic
 - Email: <a href="mailto:larissa.palethorpe@ed.ac.uk">larissa.palethorpe@ed.ac.uk</a>  
 - LinkedIn: https://www.linkedin.com/in/larissapalethorpe/  
 - ORCID: 0000-0002-1664-4105
+
+</div> <!-- end wix-panel -->
