@@ -99,7 +99,7 @@ My research focuses on understanding the nature and evolution of small exoplanet
 - Exoplanet demographics and population-level trends
 - The exoplanet radius valley and atmospheric loss
 - Planet composition, interiors, and evolution
-- Observational studies using TESS, CHEOPS, HARPS-N, and JWST
+- Observational studies using transit and radial velocity data
 
 ---
 
@@ -110,6 +110,8 @@ My research focuses on understanding the nature and evolution of small exoplanet
 - **PhD, Astronomy** — University of Edinburgh &amp; UCL *(Oct 2021 – Dec 2025)*
 
 ### Research experience
+- **Royal Society Career Development Fellow** — Bristol, UK *(Jan 2026 – Current)*  
+  Sponsor: Dr. Hannah Wakeford
 - **PhD Student** — Edinburgh, UK *(Oct 2021 – Dec 2025)*  
   Supervisors: Prof. Ken Rice, Dr. Vincent Van Eylen
 - **Summer Research Student** — European Space Agency, Leiden, the Netherlands *(June 2021 – Aug 2021)*  
