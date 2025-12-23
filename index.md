@@ -127,7 +127,7 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 - **Students’ Association Teaching Award Nominee** — University of Edinburgh (2025)
 - **STEM for Britain Finalist** — Houses of Parliament, London (2024)
-- p**3 Minute Thesis University Grand Finalist**](https://media.ed.ac.uk/media/3MT+Final+2024++-+Larissa+Palethorpe/1_5bdlpcdo) — University of Edinburgh (2024)
+- [**3 Minute Thesis University Grand Finalist**](https://media.ed.ac.uk/media/3MT+Final+2024++-+Larissa+Palethorpe/1_5bdlpcdo) — University of Edinburgh (2024)
 - **Fully funded PhD Scholarship** — School of Physics & Astronomy, University of Edinburgh
 
 ### Invited & selected talks
