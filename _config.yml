@@ -113,30 +113,24 @@ analytics:
 
 # Site Author
 author:
-      name: "Larissa Palethorpe"
-      avatar: "/assets/larissa.jpg"
-      bio: "Astrophysicist studying the formation and evolution of small exoplanets."
-      location: "Bristol, UK"
-      email: "larissa.palethorpe@ed.ac.uk"
-      links:
+  name: "Larissa Palethorpe"
+  avatar: "/assets/larissa.jpg"
+  bio: "Astrophysicist studying the formation and evolution of small exoplanets."
+  location: "Bristol, UK"
+  email: "larissa.palethorpe@ed.ac.uk"
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "mailto:larissa.palethorpe@ed.ac.uk"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-1664-4105"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=-5JBBQoAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/larissapalethorpe/"
 
 # Site Footer
 footer:
