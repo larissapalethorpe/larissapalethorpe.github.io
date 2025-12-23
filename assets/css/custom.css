@@ -463,12 +463,12 @@ body {
   .wix-hero__main {
     height: auto;
     align-items: center;        /* recentre the name block */
-    padding: 7rem 7vw 1.5rem;   /* more space from burger, tighter bottom */
+    padding: 9rem 7vw 1.5rem;   /* more space from burger, tighter bottom */
     text-align: center;
   }
 
   .wix-hero__textblock {
-    margin-bottom: 0.8rem;     /* tighten gap to photo */
+    margin-bottom: 0.6rem;     /* tighten gap to photo */
   }
 
   .wix-hero__side {
