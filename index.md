@@ -158,7 +158,26 @@ I am passionate about science communication and widening participation in physic
 
 ## Contact Information {#contact}
 - Email: <a href="mailto:larissa.palethorpe@ed.ac.uk">larissa.palethorpe@ed.ac.uk</a>  
-- LinkedIn: https://www.linkedin.com/in/larissapalethorpe/  
-- ORCID: 0000-0002-1664-4105
 
 </div> <!-- end wix-panel -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const openBtn = document.querySelector(".wix-menu-btn");
+    const closeBtn = document.querySelector(".wix-drawer__close");
+    const overlay = document.querySelector(".wix-drawer-overlay");
+    const links = document.querySelectorAll(".wix-drawer a");
+
+    function open() { document.body.classList.add("drawer-open"); }
+    function close() { document.body.classList.remove("drawer-open"); }
+
+    if (openBtn) openBtn.addEventListener("click", open);
+    if (closeBtn) closeBtn.addEventListener("click", close);
+    if (overlay) overlay.addEventListener("click", close);
+    links.forEach(a => a.addEventListener("click", close));
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") close();
+    });
+  });
+</script>
