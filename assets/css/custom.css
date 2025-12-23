@@ -5,7 +5,6 @@
 /* --- Design tokens (easy site-wide tweaks) --- */
 :root {
   --bg-image: url("/assets/Gl12b_Illustration.jpg");
-
   --hero-overlay: rgba(0, 0, 0, 0.25);
   --side-bg: rgba(10, 16, 28, 0.55);
   --side-blur: 4px;
@@ -19,7 +18,8 @@
   --panel-radius: 10px;
   --panel-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
 
-  :root { --side-width: clamp(320px, 34vw, 480px); }
+  --side-width: clamp(320px, 34vw, 480px);
+  --side-min-width: 320px; /* keep if you still want it */
 }
 
 /* ==========================================================================
@@ -138,7 +138,7 @@ body {
   position: absolute;
   top: 1.4rem;
   left: 2.2rem;
-  right: calc(var(--side-width) + 2%);
+  right: calc(var(--side-width) + 24px);
   z-index: 2;
 
   display: flex;
@@ -435,3 +435,21 @@ body.drawer-open .wix-drawer-overlay {
   }
 }
 
+/* ==========================================================================
+   Mobile nav activation + overflow safety
+   ========================================================================== */
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+@media (max-width: 900px) {
+  .wix-menu-btn {
+    display: flex;
+  }
+
+  .wix-hero__nav {
+    display: none;
+  }
+}
