@@ -462,7 +462,8 @@ body {
 
   .wix-hero__main {
     height: auto;
-    padding: 6rem 7vw 2rem; /* tweak if you want less top space */
+    align-items: flex-start;   /* stop vertical centering */
+    padding: 5rem 7vw 1rem;    /* reduce gap */
   }
 
   .wix-hero__side {
