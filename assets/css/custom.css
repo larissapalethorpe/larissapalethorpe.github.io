@@ -454,7 +454,7 @@ body {
   }
 }
 
-/* Mobile: override desktop hero height (must be after the base .wix-hero__main rule) */
+/* Mobile: override desktop hero height */
 @media (max-width: 900px) {
   .wix-hero {
     min-height: auto;
@@ -462,17 +462,22 @@ body {
 
   .wix-hero__main {
     height: auto;
-    align-items: center;        /* recentre the name block */
-    padding: 9rem 7vw 1.5rem;   /* more space from burger, tighter bottom */
+    align-items: flex-start;      /* keep layout anchored */
+    padding: 7.5rem 7vw 1.2rem;   /* clears burger, tighter bottom */
     text-align: center;
   }
 
+  /* tighten gap between name and photo */
   .wix-hero__textblock {
-    margin-bottom: 0.6rem;     /* tighten gap to photo */
+    margin-bottom: 0.4rem;
   }
 
   .wix-hero__side {
-    margin-top: 0.5rem;
-    padding-top: 0.5rem;
+    margin-top: 0.4rem;
+    padding-top: 0.4rem;
+  }
+
+  .wix-side__photo {
+    margin-bottom: 0.6rem;
   }
 }
