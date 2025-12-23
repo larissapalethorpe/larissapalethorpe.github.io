@@ -208,7 +208,7 @@ I have supervised undergraduate students on outreach- and engagement-based proje
 
 Between 2022 and 2025, I supervised eight students, supporting the design and delivery of community-focused physics outreach projects and mentoring students in science communication, project management, and public engagement.
 
---
+---
 
 ## Outreach, Media & Science Communication {#outreach}
 
