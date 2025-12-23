@@ -19,8 +19,7 @@
   --panel-radius: 10px;
   --panel-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
 
-  --side-width: 34%;
-  --side-min-width: 320px;
+  :root { --side-width: clamp(320px, 34vw, 480px); }
 }
 
 /* ==========================================================================
