@@ -162,9 +162,7 @@ My joint first-author work on the discovery and characterisation of *Gliese 12 b
 - **Sky News** — Interview on the discovery of *Gliese 12 b*  
   <https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999>
 
-- **Radio interviews** — CKNW (Vancouver) and Newstalk (Dublin) discussing the discovery process  
-  <https://dcs-spotify.megaphone.fm/CORU3323694655.mp3?...>  
-  <https://www.newstalk.com/podcasts/highlights-from-moncrieff/a-new-habitable-planet-has-been-discovered>
+- **Radio interviews** — [CKNW (Vancouver)](https://dcs-spotify.megaphone.fm/CORU3323694655.mp3?key=394e82baa749ed19a1689722db14a5b4\&request_event_id=78232ba5-87b2-44b6-9a03-521c048dfe83\&session_id=78232ba5-87b2-44b6-9a03-521c048dfe83\&timetoken=1761061808_FF5F3DF22AA4CC7DF60BCA916A18ABF9) and [Newstalk (Dublin)](https://www.newstalk.com/podcasts/highlights-from-moncrieff/a-new-habitable-planet-has-been-discovered) discussing the discovery process  
 
 - **Podcast** — *Discovering Planet b*, Astronomy Astrophiz (200th episode special)  
   <https://astrophiz.com/2024/09/15/astronomy-astrophiz200-larissa-palethorpe-planet-b/>
@@ -173,7 +171,7 @@ My joint first-author work on the discovery and characterisation of *Gliese 12 b
 
 Beyond media coverage of my research, I actively contribute to public engagement and science communication:
 
-- **Invited expert**, *Exoplanets: Strange New Worlds* — BBC *Sky at Night* (BBC Four, 2025)
+- **Invited expert**, [*Exoplanets: Strange New Worlds*](https://www.bbc.co.uk/programmes/m002fzbc) — BBC *Sky at Night* (BBC Four, 2025)
 
 - **Invited contributor**, *Brian Cox: Seven Days on Mars* — BBC *Points of View* (BBC One, 2022)
 
@@ -181,6 +179,32 @@ Beyond media coverage of my research, I actively contribute to public engagement
   *Using Gaussian Processes to Study Exoplanet Transits & Stellar Variability Simultaneously*,  
   Astrobites (October 2021)  
   <https://astrobites.org/2021/10/27/ur-gp-transit/>
+
+### Outreach & educational engagement
+
+I am actively involved in outreach and engagement initiatives aimed at widening participation in physics and astronomy, particularly for school-aged students and underrepresented groups. My outreach activities include:
+
+**Schools and youth engagement**
+- Guest scientist and speaker at primary and secondary schools, including Broughton Primary School, Kirkudbright Academy, and Southbank International School
+- Talks on career pathways in astronomy, science careers, and current exoplanet research
+- Participation in school science fairs and international science week events
+- Educational interview content created for school audiences (YouTube)
+
+**Workshops and public events**
+- STEM workshop facilitator for Girl Guide leaders, Royal Observatory Edinburgh
+- Volunteer at Royal Observatory Edinburgh Open Weekends
+
+**Committees, representation & leadership**
+- BAME Representative, School of Physics & Astronomy, University of Edinburgh
+- Student Community Committee Member, Institute of Physics
+- East Midlands Regional Committee Member, Institute of Physics  
+  – Led the design and international launch of a GirlGuiding–IOP physics badge, including supporting its rollout in Canada and contributing to its global adoption  
+  ([interactive map of global badge uptake](https://www.google.com/maps/d/viewer?mid=1mut0VpaKZXg73Cc4tCDLHWC0r5LnG6JA))
+
+**Science communication roles**
+- Interviewer for *Higgs Chats*, Higgs Centre for Theoretical Physics
+- Guest speaker for *Physics World Weekly Podcast* during \#BlackinPhysics Week
+- Participant in International Women’s Day science engagement events
 
 I am committed to inclusive science communication and widening participation in physics and astronomy, and regularly give public talks and engage with outreach initiatives. If you have an opportunity you believe would suit me, contact me below:
 
