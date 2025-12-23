@@ -188,7 +188,7 @@ I am actively involved in outreach and engagement initiatives aimed at widening 
 - Guest scientist and speaker at primary and secondary schools, including Broughton Primary School, Kirkudbright Academy, and Southbank International School
 - Talks on career pathways in astronomy, science careers, and current exoplanet research
 - Participation in school science fairs and international science week events
-- Educational interview content created for school audiences (YouTube)
+- [Educational interview content](https://www.youtube.com/watch?v=eLQV7Y9TbWQ) created for school audiences
 
 **Workshops and public events**
 - STEM workshop facilitator for Girl Guide leaders, Royal Observatory Edinburgh
@@ -203,8 +203,8 @@ I am actively involved in outreach and engagement initiatives aimed at widening 
 
 **Science communication roles**
 - Interviewer for *Higgs Chats*, Higgs Centre for Theoretical Physics
-- Guest speaker for *Physics World Weekly Podcast* during \#BlackinPhysics Week
-- Participant in International Women’s Day science engagement events
+- Guest speaker for [*Physics World Weekly Podcast*](https://physicsworld.com/a/celebrating-joy-in-blackinphysics-week-open-access-publishing-supports-climate-justice/) during \#BlackinPhysics Week
+- Participant in [International Women’s Day](https://www.youtube.com/watch?v=I5dV3yQxSvA) science engagement events
 
 I am committed to inclusive science communication and widening participation in physics and astronomy, and regularly give public talks and engage with outreach initiatives. If you have an opportunity you believe would suit me, contact me below:
 
