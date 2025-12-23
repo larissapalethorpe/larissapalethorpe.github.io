@@ -107,13 +107,12 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 ### Education
 - **MSci (Hons), Physics with Astronomy** — University of Nottingham *(Sept 2017 – July 2021)*
-- **PhD, Astronomy** — University of Edinburgh & UCL *(Oct 2021 – Dec 2025)*  
-  *Thesis:* [Characterising Small Exoplanets](https://era.ed.ac.uk/items/c15f6106-5ea8-43e0-ba74-51e278ab944b)
+- **PhD, Astronomy** — University of Edinburgh & UCL *(Oct 2021 – Dec 2025)*, *Thesis:* [Characterising Small Exoplanets](https://era.ed.ac.uk/items/c15f6106-5ea8-43e0-ba74-51e278ab944b)
 
 ### Research experience
 - **Royal Society Career Development Fellow** — Bristol, UK *(Jan 2026 – Current)*  
   Sponsor: Dr. Hannah Wakeford
-- **PhD Student** — Edinburgh, UK *(Oct 2021 – Dec 2025)*  
+- **PhD Student** — Insitute of Astronomy, University of Edinburgh & Mullard Space Science Laboratory, University College London, UK *(Oct 2021 – Dec 2025)*  
   Supervisors: Prof. Ken Rice, Dr. Vincent Van Eylen
 - **Summer Research Student** — European Space Agency, Leiden, the Netherlands *(June 2021 – Aug 2021)*  
   Advisors: Dr. Oliver Hall, Dr. Nicolas Crouzet
