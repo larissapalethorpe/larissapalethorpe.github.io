@@ -142,17 +142,47 @@ A full publication list is available via:
 
 ---
 
-## Outreach & Media {#outreach}
-My research and outreach work have featured in international media, including:
+## Outreach, Media & Science Communication {#outreach}
 
-- [NASA press release on the discovery of Gliese 12 b](https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/)
-- [CNN interview on Earth-sized exoplanets](https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn)
-- [New Scientist interview on Gliese 12 b](https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/)
-- [Sky News interview on Gliese 12 b](https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999)
-- [BBC *Sky at Night* — *Exoplanets: Strange New Worlds*](https://www.bbc.co.uk/programmes/m002fzbc)
-- [Physics World — *Pursuing joy in an alien world*](https://physicsworld.com/a/pursuing-joy-in-an-alien-world/)
+I view science communication as an integral part of research practice, particularly for publicly funded space missions and high-impact discoveries.
 
-I am passionate about science communication and widening participation in physics and astronomy, and regularly give public talks and participate in outreach events.
+### Media coverage of the discovery of *Gliese 12 b*
+
+My joint first-author work on the discovery and characterisation of *Gliese 12 b* received extensive international media coverage, including:
+
+- **NASA press release** — *NASA’s TESS Finds Intriguing World Sized Between Earth and Venus*  
+  <https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/>
+
+- **CNN** — Interview for *Scientists have discovered a theoretically habitable, Earth-size planet*  
+  <https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn>
+
+- **New Scientist** — Interview for *Earth-like exoplanet found just 40 light years away – the closest yet*  
+  <https://www.newscientist.com/article/2432840-earth-like-exoplanet-found-just-40-light-years-away-the-closest-yet/>
+
+- **Sky News** — Interview on the discovery of *Gliese 12 b*  
+  <https://news.sky.com/story/new-planet-that-could-support-human-life-discovered-close-to-earth-by-uk-scientists-13141999>
+
+- **Radio interviews** — CKNW (Vancouver) and Newstalk (Dublin) discussing the discovery process  
+  <https://dcs-spotify.megaphone.fm/CORU3323694655.mp3?...>  
+  <https://www.newstalk.com/podcasts/highlights-from-moncrieff/a-new-habitable-planet-has-been-discovered>
+
+- **Podcast** — *Discovering Planet b*, Astronomy Astrophiz (200th episode special)  
+  <https://astrophiz.com/2024/09/15/astronomy-astrophiz200-larissa-palethorpe-planet-b/>
+
+### Science communication & public engagement
+
+Beyond media coverage of my research, I actively contribute to public engagement and science communication:
+
+- **Invited expert**, *Exoplanets: Strange New Worlds* — BBC *Sky at Night* (BBC Four, 2025)
+
+- **Invited contributor**, *Brian Cox: Seven Days on Mars* — BBC *Points of View* (BBC One, 2022)
+
+- **Written science communication** —  
+  *Using Gaussian Processes to Study Exoplanet Transits & Stellar Variability Simultaneously*,  
+  Astrobites (October 2021)  
+  <https://astrobites.org/2021/10/27/ur-gp-transit/>
+
+I am committed to inclusive science communication and widening participation in physics and astronomy, and regularly give public talks and engage with outreach initiatives. If you have an opportunity you believe would suit me, contact me below:
 
 ---
 
