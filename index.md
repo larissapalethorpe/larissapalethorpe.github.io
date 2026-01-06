@@ -257,6 +257,7 @@ I am actively involved in outreach and engagement initiatives aimed at widening 
 
 **Committees, representation & leadership**
 - BAME Representative, School of Physics & Astronomy, University of Edinburgh
+- #BlackinPhysics Week 2022 article author for Physics Today and Physics World – [*Pursuing joy in an alien world](https://physicsworld.com/a/pursuing-joy-in-an-alien-world/)
 - Student Community Committee Member, Institute of Physics
 - East Midlands Regional Committee Member, Institute of Physics  
   – Led the design and international launch of a GirlGuiding–IOP physics badge, including supporting its rollout in Canada and contributing to its global adoption ([interactive map of global badge uptake](https://www.google.com/maps/d/viewer?mid=1mut0VpaKZXg73Cc4tCDLHWC0r5LnG6JA))
@@ -271,7 +272,7 @@ I am committed to inclusive science communication and widening participation in 
 ---
 
 ## Contact Information {#contact}
-- Email: <a href="mailto:larissa.palethorpe@ed.ac.uk">larissa.palethorpe@ed.ac.uk</a>  
+- Email: <a href="mailto:larissa.palethorpe@ed.ac.uk">larissa.palethorpe@bristol.ac.uk</a>  
 
 </div> <!-- end wix-panel -->
 
