@@ -161,9 +161,9 @@ My research focuses on the characterisation and evolution of small exoplanets, w
 
 ### Selected and first-authored publications
 
-- **Palethorpe et al.** (2025), *MNRAS* —  
+- **Palethorpe et al.** (2026), *MNRAS* —  
   *Constraining Small Planet Compositions for the Habitable Worlds Era*  
-  *(submitted)*
+  *(in review)*
   
 - **Dholakia* & Palethorpe* et al.** (2024), *MNRAS* —  
   *Gliese 12 b: a temperate Earth-sized planet at 12 pc discovered with TESS and CHEOPS*  
