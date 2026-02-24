@@ -167,7 +167,7 @@ My research focuses on the characterisation and evolution of small exoplanets, w
   
 - **Dholakia* & Palethorpe* et al.** (2024), *MNRAS* —  
   *Gliese 12 b: a temperate Earth-sized planet at 12 pc discovered with TESS and CHEOPS*  
-  *(joint first authorship)*  
+  *(*joint first authorship)*  
   [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1276D/abstract) • [Journal](https://academic.oup.com/mnras/article/531/1/1276/7679807)
 
 - **Palethorpe et al.** (2024), *MNRAS* —  
