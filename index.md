@@ -61,7 +61,7 @@ permalink: /
       <p class="wix-side__line">
         Email:<br>
         <a href="mailto:larissa.palethorpe@bristol.ac.uk" style="color: inherit; text-decoration: none;">
-          larissa.palethorpe@ed.ac.uk
+          larissa.palethorpe@bristol.ac.uk
         </a>
       </p>
 
