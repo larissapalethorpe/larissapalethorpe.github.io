@@ -189,7 +189,7 @@ A complete and up-to-date publication list is available via:
 
 I have teaching and supervision experience across undergraduate and postgraduate levels in astronomy, astrophysics, astrobiology, and data analysis. My teaching focuses on quantitative skills, scientific programming, and research-led learning.
 
-I am an Associate Fellow of Advance HE (AFHEA), recognising my commitment to effective teaching and learning in higher education.
+I am an <a href="/assets/Larissa%20Palethorpe%20-%20Certification%20-%20Larissa%20Palethorpe%20-%20Associate%20Fellowship.pdf" target="_blank">Associate Fellow of Advance HE (AFHEA)</a>, recognising my commitment to effective teaching and learning in higher education.
 
 ### Teaching
 
