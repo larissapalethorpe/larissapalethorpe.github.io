@@ -162,8 +162,9 @@ My research focuses on the characterisation and evolution of small exoplanets, w
 ### Selected and first-authored publications
 
 - **Palethorpe et al.** (2026), *MNRAS* —  
-  *Constraining Small Planet Compositions for the Habitable Worlds Era*  
-  *(in review)*
+  *Constraining Small Planet Compositions for the Future Missions*  
+  *(accped to MNRAS)*
+  [arXiv](https://arxiv.org/abs/2603.14552)
   
 - **Dholakia* & Palethorpe* et al.** (2024), *MNRAS* —  
   *Gliese 12 b: a temperate Earth-sized planet at 12 pc discovered with TESS and CHEOPS*  
@@ -187,6 +188,8 @@ A complete and up-to-date publication list is available via:
 ## Teaching & Supervision {#teaching}
 
 I have teaching and supervision experience across undergraduate and postgraduate levels in astronomy, astrophysics, astrobiology, and data analysis. My teaching focuses on quantitative skills, scientific programming, and research-led learning.
+
+I am an Associate Fellow of Advance HE (AFHEA), recognising my commitment to effective teaching and learning in higher education.
 
 ### Teaching
 
