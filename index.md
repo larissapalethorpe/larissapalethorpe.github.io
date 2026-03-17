@@ -163,7 +163,7 @@ My research focuses on the characterisation and evolution of small exoplanets, w
 
 - **Palethorpe et al.** (2026), *MNRAS* —  
   *Constraining Small Planet Compositions for the Future Missions*  
-  *(accped to MNRAS)*
+  *(accepted to MNRAS)*
   [arXiv](https://arxiv.org/abs/2603.14552)
   
 - **Dholakia* & Palethorpe* et al.** (2024), *MNRAS* —  
