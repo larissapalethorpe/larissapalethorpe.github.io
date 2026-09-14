@@ -261,7 +261,7 @@ Beyond media coverage of my research, I actively contribute to public engagement
 
 I regularly give public talks on exoplanets and space science to general audiences, including:
 
-- **Panel discussion** — *Planets Beyond Our Own*, Apollo Stage, Latitude Festival (2026)
+- Panel discussion* - *Planets Beyond Our Own*, Apollo Stage, Latitude Festival (2026)
 - *The Search for Planet b* — Astronomy Ireland, online (Nov 2026)
 - *Exoplanets* — IOP Physics Day, University of Bristol (Oct 2026)
 - *Tiny Worlds, Tremendous Insights: Where Are All the Missing Exoplanets?* — Chaos Physfest, University of Bristol (May 2026)
