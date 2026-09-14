@@ -132,20 +132,28 @@ My research focuses on understanding the nature and evolution of small exoplanet
 
 ### Invited & selected talks
 
+- **Contributed talk** — *Benchmark Small Planets for the Rocky Worlds Era*, Rocky Worlds DDT Workshop, STScI, USA (Nov 2026)
+
+- **Invited review talk** — *Exoplanets: Their Detection and Atmospheres*, Introduction to Astronomy STFC Summer School, University of Keele (Sept 2026)
+
+- **Invited seminar** — *Small Planets, Big Questions: Understanding the Radius Valley*, Imperial College London (June 2026)
+
+- **Contributed talk** — *Small Planet Compositions and Dynamics in the Era of Future Missions*, Small Exoplanets and the Radius Valley Meeting, Royal Astronomical Society (May 2026)
+
+- **Invited speaker & panel member** — *Positioning Yourself for Post-PhD Success*, PGWIP+ Conference, Royal Holloway University of London (April 2026)
+
+- **Invited panel member** — *PhD Insights*, Amplify 2025: The Black Undergraduate Physics Symposium, University of Southampton (Sept 2025)
+
 - **Keynote** — *Gliese 12 b: A Temperate Earth-sized Planet at 12 pc*, UK Exoplanet Meeting 2024, University of Birmingham
-  
-- **Invited public lectures** — *The Search for Planet b*, Dark Space Planetarium, Kirkudbright (2024)
 
-- **Invited panel member** — *Amplify: The Black Undergraduate Physics Symposium*, Universities of Manchester (2024) and Southampton (2025)
-
-- **Invited colloquium talk** — *Characterising Small Exoplanets*, Institute for Astronomy, University of Edinburgh (2024)
+- **Invited colloquium talk** — *Characterising Small Exoplanets*, University of Edinburgh (2024)
 
 ### Conferences & contributed presentations
 
 I regularly present my research at international conferences and workshops, including:
 
 - UK Exoplanet Meetings (keynote, talks, and posters)
-- Exoplanets V (Leiden)
+- Exoplanets 5 (Leiden) and Exoplanets 6 (Porto)
 - Extreme Solar Systems V (Christchurch)
 - Advanced School on Exoplanetary Science (Italy)
 - London Exoplanet Days
@@ -163,8 +171,7 @@ My research focuses on the characterisation and evolution of small exoplanets, w
 
 - **Palethorpe et al.** (2026), *MNRAS* —  
   *Constraining Small Planet Compositions for the Future Missions*  
-  *(accepted to MNRAS)*
-  [arXiv](https://arxiv.org/abs/2603.14552)
+  [ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag520P/abstract) •[Journal](https://academic.oup.com/mnras/article/548/2/stag520/8539725)
   
 - **Dholakia* & Palethorpe* et al.** (2024), *MNRAS* —  
   *Gliese 12 b: a temperate Earth-sized planet at 12 pc discovered with TESS and CHEOPS*  
@@ -221,7 +228,7 @@ I view science communication as an integral part of research practice, particula
 
 My joint first-author work on the discovery and characterisation of *Gliese 12 b* received extensive international media coverage, including:
 
-- **NASA press release** — [*NASA’s TESS Finds Intriguing World Sized Between Earth and Venus*](https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/)
+- **NASA press release** — [*NASA's TESS Finds Intriguing World Sized Between Earth and Venus*](https://science.nasa.gov/universe/exoplanets/nasas-tess-finds-intriguing-world-sized-between-earth-venus/)
 
 - **CNN** — Interview for [*Scientists have discovered a theoretically habitable, Earth-size planet*](https://edition.cnn.com/2024/05/24/world/habitable-earth-sized-planet-intl-scli-scn)
 
@@ -233,23 +240,42 @@ My joint first-author work on the discovery and characterisation of *Gliese 12 b
 
 - **Podcast** — [*Discovering Planet b*](https://astrophiz.com/2024/09/15/astronomy-astrophiz200-larissa-palethorpe-planet-b/), Astronomy Astrophiz (200th episode special)
 
+- **Dazed Magazine** — Interview for *Among the stars is a life we imagined*
+
 ### Science communication & public engagement
 
 Beyond media coverage of my research, I actively contribute to public engagement and science communication:
+
+- **Invited expert**, *Stonehenge and the summer solstice* — The Naked Scientists podcast (July 2026)
 
 - **Invited expert**, [*Exoplanets: Strange New Worlds*](https://www.bbc.co.uk/programmes/m002fzbc) — BBC *Sky at Night* (BBC Four, 2025)
 
 - **Invited contributor**, *Brian Cox: Seven Days on Mars* — BBC *Points of View* (BBC One, 2022)
 
+- **Interview**, Black Women in Science Network Podcast (March 2026)
+
 - **Written science communication** —  
   [*Using Gaussian Processes to Study Exoplanet Transits & Stellar Variability Simultaneously*](https://astrobites.org/2021/10/27/ur-gp-transit/), Astrobites (October 2021)  
+
+### Public talks
+
+I regularly give public talks on exoplanets and space science to general audiences, including:
+
+- **Panel discussion** — *Planets Beyond Our Own*, Apollo Stage, Latitude Festival (2026)
+- *The Search for Planet b* — Astronomy Ireland, online (Nov 2026)
+- *Exoplanets* — IOP Physics Day, University of Bristol (Oct 2026)
+- *Tiny Worlds, Tremendous Insights: Where Are All the Missing Exoplanets?* — Chaos Physfest, University of Bristol (May 2026)
+- *The Search for Planet b* — Northamptonshire Natural History Society (Feb 2026)
+- *Space Settlement: Dream or Dystopia?* — Dark Space Planetarium, Kirkcudbright (March 2025)
+- *The Search for Planet b* — Tweeddale Astronomical Society, Peebles (Oct 2024)
+- *The Search for Planet b* — Dark Space Planetarium, Kirkcudbright (April 2024)
 
 ### Outreach & educational engagement
 
 I am actively involved in outreach and engagement initiatives aimed at widening participation in physics and astronomy, particularly for school-aged students and underrepresented groups. My outreach activities include:
 
 **Schools and youth engagement**
-- Guest scientist and speaker at primary and secondary schools, including Broughton Primary School, Kirkudbright Academy, and Southbank International School
+- Guest scientist and speaker at primary and secondary schools, including Broughton Primary School, Kirkudbright Academy (2024 and 2025), and Southbank International School
 - Talks on career pathways in astronomy, science careers, and current exoplanet research
 - Participation in school science fairs and international science week events
 - [Educational interview content](https://www.youtube.com/watch?v=eLQV7Y9TbWQ) created for school audiences
@@ -268,14 +294,15 @@ I am actively involved in outreach and engagement initiatives aimed at widening 
 **Science communication roles**
 - Interviewer for *Higgs Chats*, Higgs Centre for Theoretical Physics
 - Guest speaker for [*Physics World Weekly Podcast*](https://physicsworld.com/a/celebrating-joy-in-blackinphysics-week-open-access-publishing-supports-climate-justice/) during \#BlackinPhysics Week
-- Participant in [International Women’s Day](https://www.youtube.com/watch?v=I5dV3yQxSvA) science engagement events
+- Participant in [International Women's Day](https://www.youtube.com/watch?v=I5dV3yQxSvA) science engagement events
 
 I am committed to inclusive science communication and widening participation in physics and astronomy, and regularly give public talks and engage with outreach initiatives. If you have an opportunity you believe would suit me, contact me below:
 
 ---
 
 ## Contact Information {#contact}
-- Email: <a href="mailto:larissa.palethorpe@ed.ac.uk">larissa.palethorpe@bristol.ac.uk</a>  
+- Email: <a href="mailto:larissa.palethorpe@bristol.ac.uk">larissa.palethorpe@bristol.ac.uk</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/larissapalethorpe/">linkedin.com/in/larissapalethorpe</a>
 
 </div> <!-- end wix-panel -->
 
